@@ -6,12 +6,12 @@ MakerLab hướng dẫn các bạn mới tìm hiểu về mBlock và phần cứ
 - Tải và cài đặt phần mềm mBlock5 tại MakerLab: ([Windows](https://www.mediafire.com/file/ma55iajd7glwmbo/%255BMakerLab.vn%255D_mBlock_V5.4.3_for_Windows.zip/file) / [Mac Intel](https://www.mediafire.com/file/pjfngy6d7ktb55f/%255BMakerLab.vn%255D_mBlock_V5.4.3_for_Mac_Intel.zip/file) / [Mac M1M2](https://www.mediafire.com/file/mfdkgpgnpa7uv2s/%255BMakerLab.vn%255D_mBlock_V5.4.3_for_Mac_M1M2.zip/file))
 
 ## Thiết bị sử dụng
-- [Mạch MakerEdu Creator (Arduino Uno Compatible)](https://www.makerlab.vn/makereducreator)
+- [Mạch MakerEdu Creator (Arduino Uno Compatible)](https://www.makerlab.vn/creator)
 - [Mạch màn hình MKE-M07 LCD1602 I2C Display Module](https://www.makerlab.vn/mkem07)
 - [Cảm biến siêu âm MKE-S01 Ultrasonic Distance Sensor](https://www.makerlab.vn/mkes01)
 
 ## Link tải Driver CH340:
-[https://www.makerlab.vn/ch340driver](https://www.makerlab.vn/ch340driver)
+[https://www.makerlab.vn/ch340driver](https://www.makerlab.vn/ch340)
 
 ## Hỗ trợ và liên hệ:
 
