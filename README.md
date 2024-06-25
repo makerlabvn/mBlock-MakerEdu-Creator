@@ -12,7 +12,7 @@ MakerLab hướng dẫn các bạn mới tìm hiểu về mBlock và phần cứ
 - [Cảm biến siêu âm MKE-S01 Ultrasonic Distance Sensor](https://www.makerlab.vn/mkes01)
 
 ## Link tải Driver CH340:
-[https://www.mediafire.com/file/fsem9mtf5yl56q6/%5BMakerLab.vn%5D+CH340+Driver+WinMacLinux.zip/file](https://www.mediafire.com/file/fsem9mtf5yl56q6/%5BMakerLab.vn%5D+CH340+Driver+WinMacLinux.zip/file)
+[https://www.makerlab.vn/ch340driver](https://www.makerlab.vn/ch340driver)
 
 ## Hỗ trợ và liên hệ:
 
